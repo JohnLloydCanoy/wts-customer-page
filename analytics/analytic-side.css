@@ -1,10 +1,20 @@
+html, body {
+    height: 98vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
 #analytics{
     flex-direction: column;
-    padding: 20px;
     margin-left: auto;
-    max-width: 30%;
+    max-width: 60%;
     text-align: left;
     background-color: rgb(163, 157, 150);
     padding: 20px;
     border-radius: 10px;
+    height: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
 } 
