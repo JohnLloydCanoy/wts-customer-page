@@ -16,6 +16,7 @@ body{
 }
 div{
     background: #636f96;
-    padding: 20px;
-    border-radius: 100px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 0px;
 }
