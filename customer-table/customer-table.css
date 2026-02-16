@@ -1,3 +1,14 @@
 html{
-    
+    background: white;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    background: white;
+}
+
+#customer-table {
+    background: white;
+    padding: 20px;
 }
