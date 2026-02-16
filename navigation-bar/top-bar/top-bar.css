@@ -21,7 +21,19 @@ body{
     margin: 0px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
+    gap: 20px;
 }
+
+#main-div > div {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex: 1;
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+
 .search-box {
     display: flex;
     width: 100%;
