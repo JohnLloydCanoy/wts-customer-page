@@ -1,7 +1,16 @@
 #summary-content{
     display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 100px;
+    padding-top: 20px;
+}
+
+#btn{
+    display: flex;
     align-items: center;
     justify-content: center;
-    gap: 20px;
-    margin-right: 20px;
+    background-color: #636f96;
+    padding: 40px 50px;
+    border-radius: 5px;
 }

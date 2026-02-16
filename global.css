@@ -23,12 +23,12 @@ body {
 
 #summary {
     flex: 1;
-    width: 50%;
+    width: 90%;
 }
 
 #analytics{
     flex: 1;
-    width: 50%;
+    width: 20%;
     display: flex;
     align-items: flex-start;
     justify-content: flex-end;
