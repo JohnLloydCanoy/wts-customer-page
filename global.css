@@ -9,3 +9,8 @@ html {
     margin: 0;
     padding: 0
 }
+
+#analytics{
+    display: flex;
+    align-items: center;
+}
