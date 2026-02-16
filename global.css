@@ -3,3 +3,9 @@ html {
     font-size: 16px;
     background: #e1e1e1;
 }
+
+#top-bar {
+    border-bottom: 1px solid #c1c1c1;
+    margin: 0;
+    padding: 0
+}
