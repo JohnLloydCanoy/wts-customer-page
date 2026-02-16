@@ -3,7 +3,6 @@
     align-items: flex-start;
     justify-content: center;
     gap: 100px;
-    padding-top: 20px;
 }
 
 #btn{
@@ -13,4 +12,9 @@
     background-color: #636f96;
     padding: 40px 50px;
     border-radius: 5px;
+    margin: 0;
+    width: 200px;
+    height: 120px;
+    box-sizing: border-box;
+    text-align: center;
 }
