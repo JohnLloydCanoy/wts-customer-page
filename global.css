@@ -28,7 +28,6 @@ body {
 }
 
 #analytics{
-    flex: 1;
     width: 20%;
     display: flex;
     align-items: flex-start;
