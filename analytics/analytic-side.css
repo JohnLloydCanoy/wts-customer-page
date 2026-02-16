@@ -1,0 +1,10 @@
+#analytics{
+    flex-direction: column;
+    padding: 20px;
+    margin-left: auto;
+    max-width: 30%;
+    text-align: left;
+    background-color: rgb(163, 157, 150);
+    padding: 20px;
+    border-radius: 10px;
+} 

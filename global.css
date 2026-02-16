@@ -10,7 +10,21 @@ html {
     padding: 0
 }
 
-#analytics{
+#content-container {
     display: flex;
-    align-items: center;
+    height: calc(100vh - 85px);
+    width: 100%;
+}
+
+#summary {
+    flex: 1;
+    width: 50%;
+}
+
+#analytics{
+    flex: 1;
+    width: 50%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
 }
