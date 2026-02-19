@@ -1,8 +1,11 @@
 #summary-content{
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     justify-content: center;
     gap: 100px;
+    height: 50%;
+    margin: 0;
+    padding: 0;
 }
 
 #btn{
