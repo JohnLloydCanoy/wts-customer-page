@@ -12,3 +12,18 @@
     height: auto;
     overflow: visible; 
 }
+
+.graph-line {
+    fill: none; 
+    stroke: #2563eb;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round; 
+    transition: stroke 0.3s ease;
+    scroll-behavior: hidden;
+}
+
+.graph-line:hover {
+    stroke: #1d4ed8;
+    stroke-width: 3;
+}
