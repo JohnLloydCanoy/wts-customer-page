@@ -4,11 +4,12 @@ html{
 
 body {
     margin: 0;
-    padding: 20px;
+    padding: 1px;
     background: white;
 }
 
 #customer-table {
     background: white;
-    padding: 20px;
+    padding: 1px;
+    padding-left: 25px;
 }
