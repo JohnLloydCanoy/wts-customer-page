@@ -14,3 +14,9 @@ body {
     padding: 1px;
     padding-left: 25px;
 }
+
+#btn-cell{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
