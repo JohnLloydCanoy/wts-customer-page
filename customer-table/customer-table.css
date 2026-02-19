@@ -14,10 +14,14 @@ body {
     padding: 1px;
     padding-left: 25px;
 }
+#nav-table{
+    margin: 10px;
+}
 
 #navigations-btn-cell{
     padding: 20px;
     background-color: rgb(10, 114, 107);
     color: white;
     border-radius: 5px;
+    margin: 10px;
 }
