@@ -19,6 +19,7 @@ table {
     width: 100%;
     border-collapse: collapse;
     table-layout: fixed;
+    
 }
 
 #navigations-btn-cell{
@@ -27,4 +28,5 @@ table {
     color: white;
     border-radius: 5px;
     margin: 10px;
+    border: 3px solid rgb(3, 24, 42);
 }
