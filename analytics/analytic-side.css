@@ -12,8 +12,10 @@ html, body {
     max-width: 100%;
     text-align: left;
     background-color: rgb(163, 157, 150);
-    padding: 20px;
+    padding-left: 10px;
+    margin-left: auto;
     border-radius: 10px;
     height: 100%;
     overflow: hidden;
-    box-sizing: border-box;} 
+    box-sizing: border-box;
+} 
