@@ -14,8 +14,11 @@ body {
     padding: 1px;
     padding-left: 25px;
 }
-#nav-table{
-    margin: 10px;
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
 }
 
 #navigations-btn-cell{
