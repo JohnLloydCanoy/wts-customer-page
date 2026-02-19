@@ -33,4 +33,6 @@ table {
 
 #cell-info{
     text-align: center;
+    border: 1px solid rgb(3, 24, 42);
+    padding: 13px;
 }
