@@ -19,4 +19,13 @@ html, body {
     overflow: hidden;
     box-sizing: border-box;
     text-align: center;
+    display: flex;
 } 
+
+#line-graph{
+    overflow: hidden;
+    border: none;
+    width: 100%;
+    flex: 1;
+    min-height: 0;
+}
