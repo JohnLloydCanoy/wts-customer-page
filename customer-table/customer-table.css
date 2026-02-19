@@ -12,14 +12,14 @@ body {
 #customer-table {
     background: white;
     padding: 1px;
-    padding-left: 25px;
+    padding-left: 15px;
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
     table-layout: fixed;
-    
+    margin: -5px;
 }
 
 #navigations-btn-cell{
