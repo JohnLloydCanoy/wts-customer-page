@@ -15,7 +15,7 @@ body{
     padding: 0;
 }
 #main-div{
-    background: #636f96;
+    background: #ffffff;
     padding: 10px;
     border-radius: 20px;
     margin: 0px;
@@ -23,6 +23,7 @@ body{
     align-items: center;
     justify-content: space-between;
     gap: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 #main-div > div {
